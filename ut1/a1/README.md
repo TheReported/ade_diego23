@@ -1,3 +1,10 @@
+
+# **U1_A1.- Cuadro comparativo de los SGBD**
+
+<br>
+<br>
+
+
 |     | MySQL    | PostgreSQL | Oracle |MicrosoftSQL Server|Cassandra|
 | :------------- | :------------- | :------------- |:------------- |:------------- |:------------- |
 | **Descripción** | MySQL es la base de datos de código abierto más popular del mundo. Ya sea una propiedad web de rápido crecimiento, un ISV tecnológico o una gran empresa, MySQL puede ayudarte de forma rentable a ofrecer aplicaciones de bases de datos escalables y de alto rendimiento.      |PostgreSQL es un potente sistema de base de datos relacional de objetos de código abierto con más de 30 años de desarrollo activo que le ha valido una sólida reputación de fiabilidad, solidez de las funciones y rendimiento. |Oracle es una herramienta para la gestión de bases de datos, usada principalmente por las grandes empresas para que estas puedan controlar y gestionar una gran cantidad de contenidos desde un solo archivo.|Microsoft SQL Server es un sistema de gestión de bases de datos relacionales que admite una amplia variedad de aplicaciones de procesamiento de transacciones, inteligencia empresarial y análisis en entornos informáticos corporativos. |Apache Cassandra es una base de datos distribuida NoSQL de código abierto en la que confían miles de empresas por su escalabilidad y alta disponibilidad sin comprometer el rendimiento.|
@@ -8,5 +15,5 @@
 | **Inconveniente**      | Al ser de Software Libre, muchas de las soluciones para las deficiencias del software no están documentados ni presentan documentación oficial.  |Es relativamente lento en inserciones y actualizaciones en bases de datos pequeñas, PostgreSQL está diseñado para ambientes de alto volumen. |El mayor inconveniente de Oracle es quizás su precio. Incluso las licencias de Personal Oracle son excesivamente caras, en mi opinión. Otro problema es la necesidad de ajustes. Un error frecuente consiste en pensar que basta instalar el Oracle en un servidor y enchufar directamente las aplicaciones clientes. Un Oracle mal configurado puede ser desesperantemente lento.|Existe una versión gratuita de Microsoft SQL Server que puede utilizar. Pero para aplicaciones y funciones más avanzadas basadas en datos, tendrá que realizar una inversión considerable en versiones superiores del software.|Debemos saber qué queries se van a ejecutar previamente, ya que al hacer SELECT sufre un poco debido a la manera en la que almacena los datos.|
 | **Tipos de licencias**       | - Una versión **libre**: acceso libre a los fuentes del programa (open source) y **gratuito** . Se distribuye bajo licencia GPL desde la versión 3.23.19. - Una versión **comercial** de pago, con el nombre de MySQL Enterprise.  | Es de libre accseso y además no tiene versiones comerciales.|![](img/010.png)|**Enterprise Edition** es ideal para aplicaciones que necesitan rendimiento en memoria, seguridad y alta disponibilidad críticos. **Standard Edition** ofrece funciones de base de datos completas para aplicaciones y data marts de nivel medio.|Es de libre acceso (gratis).|
 | **Versión actual** | 8.0.26 |13.4|19c|15.0|3.11.11|
-| **Precios en versiones comerciales** | ![](img/001.png)   | <center>X</center>|![](img/009)|![](img/008.png)|<center>X</center>|
+| **Precios en versiones comerciales** | ![](img/001.png)   | <center>X</center>|![](img/009.png)|![](img/008.png)|<center>X</center>|
 | **Imágenes**| ![](img/002.png)|![](img/003.png)|![](img/007.png)|![](img/006.png)|![](img/004.png)|
